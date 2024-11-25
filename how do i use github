@@ -1,0 +1,30 @@
+                  -`                     eduardo@theswag
+                 .o+`                    ---------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: MS-7C56 (2.0)
+              `+oooooo:                  Kernel: Linux 6.11.9-arch1-1
+              -+oooooo+:                 Uptime: 4 hours, 14 mins
+            `/:-:++oooo+:                Packages: 1456 (pacman)
+           `/++++/+++++++:               Shell: bash 5.2.37
+          `/++++++++++++++:              Display (Sceptre F24): 1920x1080 @ 60 Hz in 24" [External]
+         `/+++ooooooooooooo/`            Display (DELL P2720DC): 2560x1440 @ 60 Hz in 27" [External] *
+        ./ooosssso++osssssso+`           DE: KDE Plasma 6.2.3
+       .oossssso-````/ossssss+`          WM: KWin (Wayland)
+      -osssssso.      :ssssssso.         WM Theme: Breeze
+     :osssssss/        osssso+++.        Theme: Breeze (Dark) [Qt]
+    /ossssssss/        +ssssooo/-        Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+  `/ossssso+/:-        -:/+osssso+-      Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
+ `+sso+:-`                 `.-/+oso:     Cursor: breeze (24px)
+`++:.                           `-/+/    Terminal: konsole 24.8.3
+.`                                 `/    CPU: AMD Ryzen 7 5700X (16) @ 4.66 GHz
+                                         GPU: AMD Radeon RX 6650 XT [Discrete]
+                                         Memory: 6.97 GiB / 31.27 GiB (22%)
+                                         Swap: 8.87 MiB / 4.00 GiB (0%)
+                                         Disk (/): 1.43 TiB / 1.82 TiB (79%) - btrfs
+                                         Disk (/home/nugg/Desktop/swag): 545.06 GiB / 3.64 TiB (15%) - btrfs
+                                         Local IP (enp42s0): 1
+                                         Locale: en_US.UTF-8
+
+                                                                 
+                                                                 
+[nugg@theswag ~]$ 
